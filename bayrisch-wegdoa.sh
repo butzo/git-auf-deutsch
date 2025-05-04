@@ -1,0 +1,17 @@
+git config --global --unset alias.ofanga 
+git config --global --unset alias.nochmacha 
+git config --global --unset alias.ziang 
+git config --global --unset alias.dazuadoa 
+git config --global --unset alias.drucka 
+git config --global --unset alias.pfusch 
+git config --global --unset alias.zwoagal 
+git config --global --unset alias.uebergem 
+git config --global --unset alias.neimacha 
+git config --global --unset alias.vergleicha 
+git config --global --unset alias.zamdoa 
+git config --global --unset alias.bunkan 
+git config --global --unset alias.makian 
+git config --global --unset alias.nehma 
+git config --global --unset alias.tagebuach 
+git config --global --unset alias.zuastand 
+git config --global --unset alias.hihenga 
